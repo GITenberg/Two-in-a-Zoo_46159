@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '43639'
     url: http://www.gutenberg.org/2009/agents/43639
 description: Illustrated by Oliver Herford.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46159#Two-in-a-Zoo
 gutenberg_issued: '2014-07-01'
 gutenberg_type: Text
 identifiers:
