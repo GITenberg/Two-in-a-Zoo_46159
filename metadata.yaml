@@ -1,0 +1,39 @@
+_repo: Two-in-a-Zoo_46159
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46159-h/images/cover_th.jpg
+creator:
+  authors:
+  - agent_name: Herford, Oliver
+    alias: Herford, O. (Oliver)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '24852'
+    url: http://www.gutenberg.org/2009/agents/24852
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Herford
+  - agent_name: Dunham, Curtis
+    gutenberg_agent_id: '43639'
+    url: http://www.gutenberg.org/2009/agents/43639
+description: Illustrated by Oliver Herford.
+gutenberg_issued: '2014-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zoo animals -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children with disabilities -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Happiness -- Juvenile fiction'
+- !lcsh 'Captive wild animals -- Juvenile fiction'
+- !lcsh 'Zoos -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+title: Two in a Zoo
+url: http://www.gutenberg.org/ebooks/46159
